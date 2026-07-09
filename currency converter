@@ -1,0 +1,7 @@
+#take indian rupee value
+inr= float(input("give the indian rupees, rs:"))
+#decide rate conversion of usa
+us_rate=75
+#converted value
+indian=inr*us_rate
+print("indian rupees value is ," ,indian)
